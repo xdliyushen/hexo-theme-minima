@@ -1,21 +1,21 @@
 #title in header
-title: "Hi Folks."
+title: "小站"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "Mett li"
+email: xd842303863@163.com
+info: "立志成为有趣的开发者。"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+# desc: ""
 
-#menu
+#menu 
+# relative to themes/minima/source
 menu:
-  Works: /Works
   About: /About
 
 #index/main page max show posts (in number)
-max_post: 4
+max_post: 8
 
 # Colors use hex color without #
 # Theme color
@@ -28,13 +28,13 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+# placename: Earth
+# placelink: https://en.wikipedia.org/wiki/Earth
+# github: https://github.com/adisaktijrs
+# linkedin: https://linkedin.com/in/adisaktijrs
+# twitter: https://twitter.com/adisaktijrs
+# instagram: https://instagram.com/adisaktijrs
+# stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -44,6 +44,7 @@ switch_dark: 🌑
 # Picture enlargement
 picjs: /js/pic.min.js
 
+# todo change
 # favicon
 favicon: /images/favicon.png
 # thumbnail
