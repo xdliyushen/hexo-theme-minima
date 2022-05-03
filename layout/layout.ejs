@@ -135,7 +135,9 @@
         <div class="trans">
           <%- body %>
         </div>
-        <%- partial('partial/search') %>
+        <% if(config.search){ %>
+          <%- partial('partial/search') %>
+        <% } %>
         <%- partial('partial/footer') %>
       </div>
 
